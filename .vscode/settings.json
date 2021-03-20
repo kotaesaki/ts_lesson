@@ -1,0 +1,10 @@
+{
+    "editor.renderWhitespace": "all",
+    "editor.tabSize": 2,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 13,
+    "breadcrumbs.enabled": true,
+    "emmet.triggerExpansionOnTab": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+}
