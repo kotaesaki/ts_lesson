@@ -14,5 +14,6 @@ const fluits = [
   'apple',
   'banana',
   'grape',
+  'perch'
 ]
 const book: [string, number, boolean] = ['business', 1500, false]
