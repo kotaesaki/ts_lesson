@@ -12,5 +12,6 @@ var fluits = [
     'apple',
     'banana',
     'grape',
+    'perch'
 ];
 var book = ['business', 1500, false];

@@ -22,3 +22,7 @@ class Teacher extends Person {
 const teacher = new Teacher('yeah', 44,'Math')
 teacher.subject = 'fsda'
 console.log(teacher.subject)
+
+function copy<T>(value: T){
+
+}

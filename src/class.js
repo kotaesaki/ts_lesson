@@ -49,4 +49,5 @@ var Teacher = /** @class */ (function (_super) {
 var teacher = new Teacher('yeah', 44, 'Math');
 teacher.subject = 'fsda';
 console.log(teacher.subject);
-console.log(Math.PI);
+function copy(value) {
+}
